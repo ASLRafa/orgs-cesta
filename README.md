@@ -50,3 +50,6 @@ Durante o aprendizado em React Native, eu aprendi a utilizar os componentes pró
    principal.
 
 ## Projeto inLive
+
+![ezgif com-video-to-gif(1)](https://user-images.githubusercontent.com/87025218/228534209-a720854b-6909-4dcc-a68b-2bf91023f6ac.gif)
+
